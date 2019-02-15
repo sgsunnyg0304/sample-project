@@ -1,1 +1,2 @@
-This is a new file added under b1
+This is a new file added under b1 and now it's being modified under b2
+These are all the changes under b2
