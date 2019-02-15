@@ -1,2 +1,6 @@
 This is a new file added under b1
 Making this change under b1 on 2.15.19
+
+This is a new file added under b1 and now it's being modified under b2
+These are all the changes under b2
+
